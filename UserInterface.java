@@ -25,6 +25,8 @@ class UserInterface{
          playerAccess();
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for database access
@@ -73,6 +75,8 @@ class UserInterface{
          System.out.println(Database.printList());
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for modifying Database
@@ -92,6 +96,8 @@ class UserInterface{
          GenshinSystem.removeObject();
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for searching Database
@@ -209,6 +215,8 @@ class UserInterface{
          }
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for sorting Database
@@ -258,6 +266,8 @@ class UserInterface{
          System.out.println(Database.printList());
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for playerbase access
@@ -283,6 +293,8 @@ class UserInterface{
          playerSort();
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for printing Playerbase
@@ -302,6 +314,8 @@ class UserInterface{
          playerCollection();
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for printing player info
@@ -320,7 +334,9 @@ class UserInterface{
       } else if(n==2){
          System.out.println(Playerbase.printPlayerName());
       }
-      
+    
+      sc.close();
+
    }
    
    //Runs the GUI for print player collections
@@ -334,6 +350,8 @@ class UserInterface{
       
       Playerbase.printCollection(n);
       
+      sc.close();
+
    }
    
    //Runs the GUI for modifying Playerbase
@@ -369,6 +387,8 @@ class UserInterface{
          Playerbase.modifyCollection(index);
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for searching Playerbase
@@ -411,6 +431,8 @@ class UserInterface{
          }
       }
       
+      sc.close();
+
    }
    
    //Runs the GUI for sorting Playerbase
@@ -440,6 +462,8 @@ class UserInterface{
          System.out.println(Playerbase.printPlayerName());
       }
       
+      sc.close();
+
    }
       
 }
