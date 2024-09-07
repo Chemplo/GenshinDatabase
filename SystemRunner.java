@@ -24,7 +24,7 @@ class SystemRunner {
          
          if(s.equalsIgnoreCase("No") || !s.equalsIgnoreCase("Yes")){
             flag = false;
-            System.out.println("Thank you for using our program!");
+            System.out.println("Thank you for using our program! Goodbye!");
             GenshinSystem.endRun();
          }
       }
