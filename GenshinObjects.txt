@@ -1,0 +1,305 @@
+Characters
+Diluc
+10
+Claymore
+M
+Mondstadt
+Pyro
+Jean
+10
+Sword
+F
+Mondstadt
+Anemo
+Keqing
+10
+Sword
+F
+Liyue
+Electro
+Klee
+10
+Catalyst
+F
+Mondstadt
+Pyro
+Mona
+10
+Catalyst
+F
+Mondstadt
+Hydro
+Qiqi
+10
+Sword
+F
+Liyue
+Cryo
+Venti
+10
+Bow
+M
+Mondstadt
+Anemo
+Tartaglia
+11
+Bow
+M
+Snezhnaya
+Hydro
+Zhongli
+11
+Polearm
+M
+Liyue
+Geo
+Albedo
+12
+Sword
+M
+Mondstadt
+Geo
+Ganyu
+12
+Bow
+F
+Liyue
+Cryo
+Hu Tao
+13
+Polearm
+F
+Liyue
+Pyro
+Xiao
+13
+Polearm
+M
+Liyue
+Anemo
+Eula
+15
+Claymore
+F
+Mondstadt
+Cryo
+Kazuha
+16
+Sword
+M
+Inazuma
+Anemo
+Ayaka
+20
+Sword
+F
+Inazuma
+Cryo
+Yoimiya
+20
+Bow
+F
+Inazuma
+Pyro
+Kokomi
+21
+Catalyst
+F
+Inazuma
+Hydro
+Raiden
+21
+Polearm
+F
+Inazuma
+Electro
+Yae Miko
+22
+Catalyst
+F
+Inazuma
+Electro
+Itto
+23
+Claymore
+M
+Inazuma
+Geo
+Shenhe
+24
+Polearm
+F
+Liyue
+Cryo
+Ayato
+26
+Sword
+M
+Inazuma
+Hydro
+Yelan
+27
+Bow
+F
+Liyue
+Hydro
+Tighnari
+30
+Bow
+M
+Sumeru
+Dendro
+Cyno
+31
+Polearm
+M
+Sumeru
+Electro
+Nilou
+31
+Sword
+F
+Sumeru
+Hydro
+Nahida
+32
+Catalyst
+F
+Sumeru
+Dendro
+Wanderer
+33
+Catalyst
+M
+Sumeru
+Anemo
+Alhaitham
+34
+Sword
+M
+Sumeru
+Dendro
+Dehya
+35
+Claymore
+F
+Sumeru
+Pyro
+Baizhu
+36
+Catalyst
+M
+Liyue
+Dendro
+Weapons
+Amos' Bow
+10
+Bow
+Aquila Favonia
+10
+Sword
+Lost Prayer to the Sacred Winds
+10
+Catalyst
+Skyward Atlas
+10
+Catalyst
+Skyward Blade
+10
+Sword
+Skyward Harp
+10
+Bow
+Skyward Pride
+10
+Claymore
+Skyward Spine
+10
+Polearm
+Wolf's Gravestone
+10
+Claymore
+Memory of Dust
+11
+Catalyst
+The Unforged
+11
+Claymore
+Vortex Vanquisher
+11
+Polearm
+Summit Shaper
+12
+Sword
+Primordial Jade Cutter
+13
+Sword
+Primordial Jade Winged-Spear
+13
+Polearm
+Staff of Homa
+13
+Polearm
+Elegy for the End
+14
+Bow
+Song of Broken Pines
+15
+Claymore
+Freedom-Sworn
+16
+Sword
+Mistsplitter Reforged
+20
+Sword
+Thundering Pulse
+20
+Bow
+Engulfing Lightning
+21
+Polearm
+Everlasting Moonglow
+21
+Catalyst
+Polar Star
+22
+Bow
+Redhorn Stonethresher
+23
+Claymore
+Calamity Queller
+24
+Polearm
+Kagura's Verity
+25
+Catalyst
+Haran Geppaku Futsu
+26
+Sword
+Aqua Simulacra
+27
+Bow
+Hunter's Path
+30
+Bow
+Key of Khaj-Nisut
+31
+Sword
+Staff of the Scarlet Sands
+31
+Polearm
+A Thousand Floating Dreams
+32
+Catalyst
+Tulaytullah's Remembrance
+33
+Catalyst
+Light of Foliar Incision
+34
+Sword
+Beacon of the Reed Sea
+35
+Claymore
+Jadefall's Splendor
+36
+Catalyst
